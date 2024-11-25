@@ -1,8 +1,8 @@
-**👋 Hello,**
+## **👋 Hello,**
 
 I am Phan Anh Vu. I newly graduated from Banking Academy. I studied Business Adminstration, and currently follow the path of a Data Analyst. Welcome to my portfolio 🎉🎉🎉
 
-**📫 How to reach me:**
+## **📫 How to reach me:**
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/anh-vu-phan2201)
 &nbsp;
